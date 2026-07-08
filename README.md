@@ -1,1 +1,18 @@
-# Blinkit-Sales-Performance-Dashboard
+# Blinkit Sales Performance Dashboard
+
+## 📊 Project Overview
+A comprehensive Business Intelligence dashboard analyzing $1.20M in total sales for Blinkit. This project tracks key performance indicators (KPIs) across multiple outlet sizes, types, and geographic locations to optimize operational efficiency.
+
+## 🛠️ Tech Stack & Skills
+- **BI Tool:** Power BI
+- **Data Transformation:** Power Query (ETL)
+- **Data Modeling:** DAX (for custom measures like Avg Sales, Avg Rating)
+
+## 💡 Key Insights Discovered
+- **Top Performer:** Supermarket Type 1 drives the highest revenue ($787.55K).
+- **Inventory Focus:** Low-fat items significantly outperform regular fat items in consumer demand.
+- **Location Trends:** Tier 3 locations represent the largest market chunk by volume.
+
+## 📸 Dashboard Preview
+![Dashboard Screenshot](<img width="1363" height="598" alt="Blinkit_Dashboard_Fabric" src="https://github.com/user-attachments/assets/d1b778be-a855-42c4-8f29-457b336bbcb3" />
+)
