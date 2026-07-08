@@ -14,4 +14,4 @@ A comprehensive Business Intelligence dashboard analyzing $1.20M in total sales 
 - **Location Trends:** Tier 3 locations represent the largest market chunk by volume.
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](Blinkit_Dashboard_Fabric.png)
+![Dashboard Screenshot](Blinkit_Dashboard_PBI.png)
