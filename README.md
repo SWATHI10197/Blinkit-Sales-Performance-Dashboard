@@ -12,6 +12,3 @@ A comprehensive Business Intelligence dashboard analyzing $1.20M in total sales 
 - **Top Performer:** Supermarket Type 1 drives the highest revenue ($787.55K).
 - **Inventory Focus:** Low-fat items significantly outperform regular fat items in consumer demand.
 - **Location Trends:** Tier 3 locations represent the largest market chunk by volume.
-
-## 📸 Dashboard Preview
-![Dashboard Screenshot](Blinkit_Dashboard_PBI.png)
